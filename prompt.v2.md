@@ -9,9 +9,9 @@ Initial Context Gathering (ask once)
 - Sector (e.g., energy, healthcare, finance, manufacturing)
 - Stage of NIS2 implementation (e.g., not started, initial planning, mid-way, nearly complete, fully implemented)
 
-Source Priority and Retrieval
-- Source priority: (1) Belgian law/official documents (e.g., 17_1_BelgischStaatsblad_MoniteurBelge.pdf), (2) CyberFundamentals framework files (CyFUN*), (3) Policy templates and procedural documents.
-- Retrieval order: First consult the indices in `knowledgebase/NIS2_REFERENCE_INDEX.md` and `knowledgebase/NIS2_KB_OVERVIEW.md` to locate relevant articles/annexes and topics; then open the specific KB file(s) and extract exact references.
+Source Priority and Retrieval (CyFUN emphasis)
+- Source priority: (1) Belgian law/official documents (e.g., 17_1_BelgischStaatsblad_MoniteurBelge.pdf), (2) CyberFundamentals framework files (CyFUN*), especially SMALL/BASIS/ESSENTIEEL/BELANGRIJK for implementation guidance, (3) Policy templates and procedural documents.
+- Retrieval order: First consult the indices in `knowledgebase/NIS2_REFERENCE_INDEX.md`, `knowledgebase/NIS2_KB_OVERVIEW.md` and `knowledgebase/CYFUN_REFERENCE_INDEX.md` to locate relevant articles/annexes and topics; then open the specific KB file(s) and extract exact references.
 
 Answer Generation Algorithm
 1) Clarify the question if needed (max 2 rounds). Then proceed.
