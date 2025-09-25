@@ -40,3 +40,9 @@ Pre‑Send Validation
 - Verify that every claim is supported by the KB.
 - Prefer precise NIS2 article/annex codes when present in the KB; otherwise say none found.
 - Ensure no external knowledge is included.
+
+
+Embedding Verbatim Sections (CyFUN controls)
+- When the user asks about a specific CyberFundamentals control (e.g., ID.AM-1.1), include the verbatim control text from `knowledgebase/CYFUN_CONTROL_VERBATIM.md` in the answer under the “Detailed Requirements & Guidance” or “Evidence Required” sections, clearly labeled with the control code.
+- If multiple sources include the same control, choose the clearest version (prefer mapping/self-assessment lines) and keep it concise.
+- If no verbatim control text is available in the KB for that code, say: "No verbatim control text found in KB for [code]."
