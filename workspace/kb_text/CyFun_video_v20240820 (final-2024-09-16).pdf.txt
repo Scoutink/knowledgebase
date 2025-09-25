@@ -1,0 +1,641 @@
+The CyberFundamentals Framework
+
+Version 2024-08-20
+
+Cybersecurity Certification Authority
+
+Centre for Cybersecurity Belgium
+
+Under the authority of the Prime Minister
+
+
+What is CyberFundamentals?
+
+CyberFundamentals
+Framework
+
+62443
+
+ESSENTIAL:    100 % Attack countered
+
+Validation results
+
+IMPORTANT:  94 % Attacks countered
+
+BASIC:              82 % Attacks countered
+
+CERT attack profiles (retrofit of successful attacks)
+
+Federal
+Cyber Emergency
+Response Team
+
+2
+
+
+Small - the starting level
+
+* Intended for micro-organisations
+(except in a high-risk environment)
+
+* Only limited technical knowledge required
+
+CyberFundamentals
+SMALL
+
+*                      Cybersecurity best practices
+
+* Fully aligned with CyberFundamentals Assurance Levels
+
+Basic, Important and Essential
+
+3
+
+
+Small - Cybersecurity best practices
+
+1. Use Multi-Factor Authentication whenever possible.
+
+* Always use Multi-Factor Authentication on remote access
+
+2.
+
+3.
+
+4.
+
+5.
+
+Implement security updates/patches for all your software
+as soon as they are available.
+
+Implement an anti-virus solution on all types of devices and
+keep it up-to-date to ensure its continuous effectiveness.
+
+Protect your network by installing a firewall.
+
+Protect data on the network accessed via Wi-Fi using
+wireless encryption standards.
+
+6.
+
+Pay specific attention to remote access security.
+
+4
+
+
+Small - Cybersecurity best practices
+
+7. Regularly perform automated backups of your information.
+
+* Put a backup OFF-LINE (not connected to the network) weekly or every few weeks.
+
+* After mayor changes, backup your systems so you can restore them more easily.
+
+8.
+
+Ensure that no one works with administrator privileges for daily tasks.
+
+9. Restrict physical access:
+
+* Protection of computers and mobile devices against theft or improper use.
+
+* Restrict access to premises, backups, servers, and network components to authorized
+
+individuals only.
+
+10. Know-how and who to contact in case of a cyber incident.
+
+5
+
+
+CyberFundamentals Assurance Levels
+
+BASIC
+
+*Standard security measures for all enterprises.
+*Technology and processes generally available.
+*Known cyber security risks.
+
+IMPORTANT
+
+*Targeted cyber-attacks.
+*By actors with common skills and resources.
+
+ESSENTIAL
+
+*Targeted advanced cyber-attacks.
+*By actors with extensive skills and resources.
+
+6
+
+
+Proportionality - the Principle of balance
+
+Risk assessment tool to determine the assurance level
+
+Through the
+assurance levels
+based on cyber risk
+
+Focus on real cyber attacks
+
+Key Measures
+
+Conformity thresholds considering the maturity level.
+
+Through
+maturity level verification
+
+7
+
+
+Business Risk Assessment
+Assurance levels
+based on cyber risk
+
+Default Risk Assessment per Sector & Size
+appropriate CyberFundamentals Level
+
+CyFun(r)
+Selection tool
+
+https://atwork.safeonweb.be/tools-resources/cyberfundamentals-framework/choosing-right-cyber-fundamentals-assurance-level-your-organisation
+
+8
+
+
+Operational Risk Assessment
+
+Assurance levels
+based on cyber risk
+
+Risk assessment is mandatory and included in Art 30 of the BE NIS2 legislation.
+
+Risk assessment is the core of the CyberFundamentals Framework
+
+BASIC - ID.GV-4.1: As part of the company's overall risk management, a comprehensive
+
+strategy to manage information security and cybersecurity risks shall be developed
+and updated when changes occur.
+
+BASIC - ID.RA-5.1: The organization shall conduct risk assessments in which risk is
+
+determined by threats, vulnerabilities and impact on business processes and assets.
+
+No specific methodology to perform risk assessment is imposed.
+
+9
+
+
+The CyberFundamentals Architecture
+
+Incremental
+model
+
+Mapping
+
+10
+
+
+Respond:  Acting on a detected cybersecurity
+
+incident
+
+Analysis
+[RS.AN]
+
+Response
+Planning
+[RS.RP]
+
+Communications
+[RS.CO]
+
+Mitigation
+[RS.MI]
+
+Improvement
+[RS.IM]
+
+11
+
+
+Respond:  Acting on a detected cybersecurity
+
+incident
+
+Analysis
+[RS.AN]
+
+Response
+Planning
+[RS.RP]
+
+Communications
+[RS.CO]
+
+Info sharing with employees
+
+Basic response plan
+
+BASIC
+
+Post incident evaluation
+
+Mitigation
+[RS.MI]
+
+Improvement
+[RS.IM]
+
+CyFun(r) is a cumulative model
+
+12
+
+
+Respond:  Acting on a detected cybersecurity
+
+incident
+
+Investigate received notifications
+
+Developed response plan
++ corrective actions
+
+Response
+Planning
+[RS.RP]
+
+Communications
+[RS.CO]
+
+Incident
+categorization
+
+Vulnerability
+management
+
+Analysis
+[RS.AN]
+
+Info sharing with employees
+And relevant stakeholders
+
+Coordinate response actions
+
+CyFun(r) is a cumulative model
+
+Mitigation
+[RS.MI]
+
+Improvement
+[RS.IM]
+
+IMPORTANT
+
+Incident handling
+capability
+
+Post incident evaluation
+
+Incident handling
+improvement
+
+13
+
+
+Respond:  Acting on a detected cybersecurity
+
+incident
+
+Investigate using
+automated mechanisms
+
+Developed response plan
++ corrective actions
+
+Incident
+categorization
+
+Automated
+Vulnerability
+Management
+
+Forensics
+
+Response
+Planning
+[RS.RP]
+
+Analysis
+[RS.AN]
+
+Mitigation
+[RS.MI]
+
+ESSENTIAL
+
+Incident handling
+capability
+
+Info sharing with employees
+And relevant stakeholders
+Coordinate response actions
+
+Communications
+[RS.CO]
+
+Post incident evaluation
+
+Improvement
+[RS.IM]
+
+Incident handling
+improvement
+
+CyFun(r) is a cumulative model
+
+14
+
+
+Key Measures
+
+No misuse of risk assessments to do nothing  just do it
+
+Identified on what basis?
+
+Federal Cyber Emergency Response Team
+
+Y
+R
+A
+M
+M
+U
+S
+
+15
+
+
+CyberFundamentals is Maturity Level based
+
+CyFun(r) Level 5
+
+CyFun(r) Level 4
+
+Optimizing
+
+Complexity
+(ndeg requirements)
+
+CyFun(r) Level 3
+
+Managed
+
+CyFun(r) Level 2
+
+Defined
+
+CyFun(r) Level 1
+
+Repeatable
+
+Initial
+
+Process
+unpredictable,
+reactive, not
+documented & poorly
+controlled
+
+Ad Hoc
+Processes,
+mostly informal,
+project oriented
+& often reactive
+
+Formal processes,
+organisation
+oriented & proactive
+
+Formal processes,
+organisation oriented,
+controlled, proactive
+& measured
+
+Formal processes,
+organisation oriented,
+controlled, proactive,
+measured & continual
+improvement
+
+16
+
+
+CyberFundamentals Maturity Level criteria
+
+Maturity level
+
+Documentation
+
+Documentation
+score
+
+Implementation
+
+Implementation
+score
+
+Initial
+(Level 1)
+
+No Process documentation or not formally approved by
+management
+
+Standard process does not exist.
+
+Repeatable
+(Level 2)
+
+Formally approved Process documentation exists but not
+reviewed in the previous 2 years
+
+Ad-hoc process exists and is done informally.
+
+Defined
+(Level 3)
+
+Formally approved Process documentation exists, and
+exceptions are documented and approved. Documented &
+approved exceptions < 5% of the time
+
+Formal process exists and is implemented. Evidence available
+for most activities. Less than 10% process exceptions.
+
+Managed
+(Level 4)
+
+Formally approved Process documentation exists, and
+exceptions are documented and approved. Documented &
+approved exceptions < 3% of the time
+
+Optimizing
+(Level 5)
+
+Formally approved Process documentation exists, and
+exceptions are documented and approved. Documented &
+approved exceptions < 0,5% of the time
+
+Formal process exists and is implemented. Evidence available for
+all activities. Detailed metrics of the process are captured and
+reported.
+Minimal target for metrics has been established. Less than 5% of
+process exceptions.
+
+Formal process exists and is implemented. Evidence available for
+all activities. Detailed metrics of the process are captured and
+reported.
+Minimal target for metrics has been established and continually
+improving. Less than 1% of process exceptions.
+
+17
+
+
+CyFun(r) Self-Assessment tool
+
+USE LAST VERSION
+
+USE LAST VERSION
+
+CyFun(r)
+Self-Assessment tool
+is
+publicly available (EN)
+in the
+CyFun Toolbox
+www.cyfun.be
+www.cyfun.eu
+
+18
+
+
+The 'Details' tab
+
+MANUAL INPUT (unprotected cells)
+
+Your own
+notes
+(unprotected cells)
+
+AUTOMATIC
+calculation
+(protected cells)
+
+Documentation
+score
+
+Implementation
+score
+
+19
+
+
+Thresholds in CyFun(r)
+
+BASIC
+
+IMPORTANT
+
+ESSENTIAL
+
+(*) See Part IV of the CAS
+
+20
+
+
+The 'Summary' tab
+
+ESSENTIAL
+
+Full
+AUTOMATIC
+calculation
+(protected cells)
+
+Key Measure Maturity >= 3/5
+
+Category Maturity
+
+>= 3/5
+
+Total Maturity
+
+>= 3,5/5
+
+BASIC
+
+IMPORTANT
+
+USE LAST VERSION
+
+21
+
+
+The CyberFundamentals ecosystem
+
+CyFun(r)
+Framework mapping
+
+CyFun(r)
+Selection tool
+(Risk Assessment)
+
+CyberFundamentals
+Conformity
+Assessment
+Scheme
+for CAB's
+
+CyberFundamentals Labels
+
+CyFun(r)
+Self-Assessment tool
+
+CyFun(r) BASIC
+Policy templates
+
+CyberFundamentals Toolbox is  publicly available  www.cyfun.be
+
+22
+
+EnergyOrganization Size (L/M/S = 3/2/1)3Threat Actor TypeCyber Attack CategoryGlobal  or TargettedImpactProbRisk ScoreProbRisk ScoreProbRisk ScoreProbRisk ScoreProbRisk ScoreSabotage/ Disruption (DDOS,...)2HighLow0Low0Med30Med30High60Information Theft (espionage, ...)2HighLow0Low0Low0High60High60Crime (Ransom attacks)1HighLow0Low0Low0High30Low0Hactivism (Subversion, defacement...)1MedLow0Med7,5Low0Low0Med7,5Disinformation (political influencing)1LowLow0Med0Low0Low0Low0ScoreCyFun LevelTotalTotal07,530120127,5285ESSENTIALCommon skillsCompetitorsExtended SkillsCyber CriminalsExtended SkillsNation State actorCommon skillsIdeologues HactivistsCommon skillsTerrorist
+CyberFundamentals and NIST CSF 2.0
+
+* To align the CyberFundamentals framework with NIST CSF 2.0
+
+* To include feedback received from users during the past period
+
+* To include new threats based on the recent cyber incidents in Belgium
+
+(input from CERT)
+
+* To include evolutions in cyber security
+
+When?
+
+Spring
+
+2025
+
+23
+
+
+CCB Certification Authority (NCCA)
+certification@ccb.belgium.be
+
+Centre for Cybersecurity Belgium
+Under the authority of the Prime Minister
+Rue de la Loi / Wetstraat 18 - 1000 Brussels
+www.ccb.belgium.be
+

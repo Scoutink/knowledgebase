@@ -1,0 +1,366 @@
+== Sheet: Introduction ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,CHOOSING THE RIGHT CYBER FUNDAMENTALS ASSURANCE LEVEL FOR YOUR ORGANIZATION,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,CyFun-Selection,,,,,,,,
+,,,,,,,,,,,,
+,"This tool is developed by the Centre for Cybersecurity Belgium to conduct an easy risk assessment resulting in a well-informed selection of the appropriate Cyber Fundamentals Assurance Level in the context of NIS2.
+This tool does not impose a specific methodology regarding risk analysis used by an organisation in its day-to-day management.",,,,,,,,Change Log,,,
+,,,,,,,,,Date,,Reason for change,
+,,,,,,,,,2023-05-31 00:00:00,,Release for validation,
+,,,,,,,,,2023-07-10 00:00:00,,Initial Release,
+,,,,,,,,,2024-01-08 00:00:00,,Including feedback users,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,User Instructions,,,Criteria used in the model ,,,,,Applicable version of the CyberFundamentels framework,,,
+,,,,Sectors identified in NIS2,,,,,Version,requirements,,Latest version published on www.cyfun.be
+,,,,,,,,,Version,CAS (*),,Latest version published on www.cyfun.be
+,,,,,,,,,(*) Conformity Assessment Scheme,,,
+
+== Sheet: I.1_Energy ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Energy,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Low,0,Med,30,Med,30,High,60,,
+,"Information Theft (espionage, ...)",2,High,Low,0,Low,0,Low,0,High,60,High,60,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Med,7.5,Low,0,Low,0,Med,7.5,,
+,Disinformation (political influencing),1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,7.5,,30,,120,,127.5,285,ESSENTIAL
+
+== Sheet: I.2_Transport ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Transport,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Low,0,Med,30,Low,0,High,60,,
+,"Information Theft (espionage, ...)",2,High,Low,0,Low,0,Low,0,High,60,High,60,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Med,7.5,Low,0,Low,0,Med,7.5,,
+,Disinformation (political influencing),1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,7.5,,30,,90,,127.5,255,ESSENTIAL
+
+== Sheet: I.4_Fin ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,"Financial market infrastructures
+Banking",,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,Med,30,Low,0,Med,30,,
+,"Information Theft (espionage, ...)",2,High,Low,0,Low,0,Med,30,High,60,Med,30,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Med,7.5,Low,0,Low,0,Med,7.5,,
+,Disinformation (political influencing),1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,37.5,,60,,90,,67.5,255,ESSENTIAL
+
+== Sheet: I.5_Health ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Healthcare,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,Med,30,Low,0,Med,30,,
+,"Information Theft (espionage, ...)",2,High,Low,0,Low,0,Med,30,Med,30,Med,30,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Med,Low,0,Med,7.5,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,37.5,,60,,60,,60,217.5,ESSENTIAL
+
+== Sheet: I.6_Drinking water ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Drinking water,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,High,60,Low,0,High,60,,
+,"Information Theft (espionage, ...)",2,Med,Low,0,Low,0,Med,15,Med,15,Med,15,,
+,Crime (Ransom attacks),1,Med,Low,0,Low,0,Low,0,Med,7.5,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,30,,75,,22.5,,75,202.5,ESSENTIAL
+
+== Sheet: I.7_Waste water ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Waste water,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,High,60,Low,0,High,60,,
+,"Information Theft (espionage, ...)",2,Med,Low,0,Low,0,Med,15,Med,15,Med,15,,
+,Crime (Ransom attacks),1,Med,Low,0,Low,0,Low,0,Med,7.5,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,30,,75,,22.5,,75,202.5,ESSENTIAL
+
+== Sheet: I.8_Digital Infra ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,"Digital infrastructure
+B2B ICT service management",,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,Med,30,Low,0,High,60,,
+,"Information Theft (espionage, ...)",2,High,Low,0,Low,0,Low,0,High,60,High,60,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Med,7.5,Low,0,Low,0,Med,7.5,,
+,Disinformation (political influencing),1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,37.5,,30,,90,,127.5,285,ESSENTIAL
+
+== Sheet: I.10_Pub Admin ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Public Administration,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,Med,30,Med,30,High,60,,
+,"Information Theft (espionage, ...)",2,High,Low,0,Low,0,Med,30,High,60,High,60,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,High,Low,0,Med,15,Low,0,Low,0,Med,15,,
+,Disinformation (political influencing),1,High,Low,0,Med,15,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,60,,60,,120,,135,375,ESSENTIAL
+
+== Sheet: I.11_Space ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Space,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Low,0,Med,30,Low,0,High,60,,
+,"Information Theft (espionage, ...)",2,High,Low,0,Low,0,Low,0,High,60,High,60,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Med,7.5,Low,0,Low,0,Med,7.5,,
+,Disinformation (political influencing),1,Med,Low,0,Med,7.5,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,15,,30,,90,,127.5,262.5,ESSENTIAL
+
+== Sheet: II.1_Post ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Postal and courier services,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,Med,30,Med,30,Med,30,,
+,"Information Theft (espionage, ...)",2,Med,Low,0,Low,0,Low,0,Low,0,Med,15,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,30,,30,,60,,45,165,IMPORTANT
+
+== Sheet: II.2_Waste Mgmt ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Waste management,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,Med,Low,0,Low,0,Med,15,Low,0,Med,15,,
+,"Information Theft (espionage, ...)",2,Low,Low,0,Med,0,Med,0,Med,0,Med,0,,
+,Crime (Ransom attacks),1,Med,Low,0,Low,0,Low,0,High,15,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,0,,15,,15,,15,45,BASIC
+
+== Sheet: II.3_Chemicals ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,"Manufacture, production and distribution of chemicals",,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Low,0,Med,30,Low,0,High,60,,
+,"Information Theft (espionage, ...)",2,Med,Low,0,Med,15,Med,15,Med,15,Med,15,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,15,,45,,45,,75,180,IMPORTANT
+
+== Sheet: II.4_Food ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,"Production, processing and distribution of food",,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Low,0,Med,30,Low,0,High,60,,
+,"Information Theft (espionage, ...)",2,Low,Low,0,Low,0,Low,0,Low,0,Med,0,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,Med,15,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Med,7.5,Low,0,Low,0,Med,7.5,,
+,Disinformation (political influencing),1,Med,Low,0,Med,7.5,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,0,,15,,30,,15,,67.5,127.5,IMPORTANT
+
+== Sheet: II.5_Manufacturing ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Manufacturing,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,Med,Med,15,Low,0,Low,0,Low,0,Med,15,,
+,"Information Theft (espionage, ...)",2,High,High,60,Low,0,Low,0,Med,30,Med,30,,
+,Crime (Ransom attacks),1,Med,Low,0,Low,0,Low,0,High,15,Med,7.5,,
+,"Hactivism (Subversion, defacement...)",1,Low,Low,0,Med,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,Score,CyFun Level
+,,Total,Total,,75,,0,,0,,45,,52.5,172.5,IMPORTANT
+
+== Sheet: II.6_Digital providers ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Digital providers,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,High,Low,0,Med,30,Med,30,Low,0,Med,30,,
+,"Information Theft (espionage, ...)",2,Med,Low,0,Med,15,Low,0,Med,15,Med,15,,
+,Crime (Ransom attacks),1,Med,Low,0,Low,0,Low,0,High,15,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Low,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Med,Low,0,Med,7.5,Low,0,Low,0,Med,7.5,Score,CyFun Level
+,,Total,Total,,0,,52.5,,30,,30,,52.5,165,IMPORTANT
+
+== Sheet: II.7_Research ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,Version:,2024-01-08 00:00:00,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Research,,,Common skills,,Common skills,,Common skills,,Extended Skills,,Extended Skills,,,
+,Organization Size (L/M/S = 3/2/1),3,Threat Actor Type ,Competitors,,Ideologues Hactivists,,Terrorist,,Cyber Criminals,,Nation State actor,,,
+,Cyber Attack Category,Global  or Targetted,Impact,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,Prob,Risk Score,,
+,"Sabotage/ Disruption (DDOS,...)",2,Med,Low,0,Low,0,Low,0,Low,0,Low,0,,
+,"Information Theft (espionage, ...)",2,High,Med,30,Low,0,Med,30,Med,30,High,60,,
+,Crime (Ransom attacks),1,High,Low,0,Low,0,Low,0,High,30,Low,0,,
+,"Hactivism (Subversion, defacement...)",1,Med,Low,0,Med,7.5,Low,0,Low,0,Low,0,,
+,Disinformation (political influencing),1,Low,Low,0,Low,0,Low,0,Low,0,Med,0,Score,CyFun Level
+,,Total,Total,,30,,7.5,,30,,60,,60,187.5,IMPORTANT
+
+== Sheet: Criteria ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,,,,,,,,,,,,,,
+,,,Version:,2024-01-08 00:00:00,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Probability,Low,0,Probability,LOW,"This type of treat actor is not known to have executed this kind of attack in this sector. There are no indications that this might be the case in the near future.
+Risk evaluation: Risk is acceptable as is - The risk can be accepted without further action.",,,,,,,,,
+,,Med,0.5,Probability,MEDIUM,"This type of treat actor is known to have executed this kind of attack globally. It is reasonable to accept that this might be the case in this sector in the near future.
+Risk evaluation: Risk is tolerable under control - A follow-up in terms of risk management shall be conducted and actions shall be set up in the context of medium- and long-term continuous improvement.",,,,,,,,,
+,,High,1,Probability,HIGH,"This type of treat actor is known to have executed this kind of attack in this sector. It is reasonable to assume that this will reoccur in this sector in the near future.
+Risk evaluation: Risk is unacceptable - Measures for reducing the risk shall absolutely be taken in the short-term. Otherwise, all or a portion of the activity should be discontinued.",,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Impact,Low,0,,Impactlevels are explained in ,,,,,,,,,,
+,,Med,5,,https://ccb.belgium.be/sites/default/files/cyberfundamentals/IMPACT%20LEVELS_v2023-07-10.pdf,,,,,,,,,,
+,,High,10,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,CyFun Level,0,99,BASIC,,,,,,,,,,,
+,,100,199,IMPORTANT,,,,,,,,,,,
+,,200,10000,ESSENTIAL,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Type of attack,Required protection value,,,"In global or un-targeted attacks (value 1), attackers indiscriminately target as many devices, services or users as possible. They do not care about who the victim is as there will be a number of machines or services with vulnerabilities.
+Targeted attacks refer to a type of threat in which threat actors actively pursue and compromise a target entity's infrastructure. Typically these threat actors have a certain level of expertise and have sufficient resources to conduct their schemes over a long-term period. For this reason, a greater degree of protection is required
+(value 2).",,,,,,,,,,
+,Global,1,,,,,,,,,,,,,
+,Targetted,2,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Low,,,,,,,,,,,,,PROB,
+,Med,,,,,,,,,,,,,HIGH,1.0
+,,,,,,,,,,,,,,LOW,0.0
+,,,,,,,,,,,,,,MED,0.5
+,,,,,,,,,,,,,,IMP,
+,,,,,,,,,,,,,,HIGH,10.0
+,,,,,,,,,,,,,,LOW,0.0
+,,,,,,,,,,,,,,MED,5.0
+
+== Sheet: Sectors ==
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,,
+,,
+,,
+,,
+Sector,,Subsector
+Annex I: Sectors of high criticality,,
+I.1., Energy,"Electricity, district Heating &cooling, Oil, Gas, Hydrogen"
+I.2, Transport,Air (commercial carriers; airports; traffic); Rail (infra and undertakings); Water (transport companies; ports; traffic services); Road (ITS & charging stations)
+,,Special case: Public Transport: only if identified as CER
+I.3,"Banking
+Included in I.4 for the purpose of this application",Credit institutions    (attention: DORA lex specialis)
+I.4,Financial Market Infrastructure,"Trading venues, central counterparties (attention: DORA lex specialis)"
+I.5.,Healthcare,Healthcare providers; EU reference laboratories; R&D of medicinal products; manufacturing basic pharma products and preparations; manufacturing of medical devices critical during public health emergency
+,,Special case:  entities holding a distribution authorization for medicinal products: only if identified as CER
+I.6.,Drinking Water,"Suppliers and distributors of water intended for human consumption, excluding distributors for which distribution of water for human consumption is a non- essential part of their general activity of distributing other commodities and goods."
+I.7.,Waste Water,"Undertakings collecting, disposing of or treating urban waste water, domestic waste water or industrial waste water, excluding undertakings for which collecting, disposing of or treating urban waste water, domestic waste water or industrial waste water is a non-essential part of their general activity."
+I.8.,Digital Infrastructure,Qualified trust service providers
+,,DNS service providers (excluding root name servers)
+,,TLD name registries
+,,Providers of public electronic communications networks
+,,Non-qualified trust service providers
+,,Internet Exchange Point providers
+,,Cloud computing service providers
+,,Data centre service providers
+,,Content delivery network providers
+I.9.," ICT-service management (B2B)
+Included in I.8 for the purpose of this application","Managed Service Providers, Managed Security Service Providers"
+I.10.,Public Administration entities,"Of central governments (excluding judiciary, parliaments, central banks; defence, national or public security)."
+,,Of regional governments: risk based.
+,,(Optional for Member States: of local governments)
+I.11.,Space,Operators of ground-based infrastructure (by MS)
+Annex II: other critical sectors,,
+II.1.,Postal and courier services,"Postal service providers, including providers of courier services."
+II.2.,Waste Management,"Undertakings carrying out waste management, excluding undertakings for whom waste management is not their principal economic activity."
+II.3.,"Manufacture, production and distribution of chemicals","Manufacture, production, distribution"
+II.4.,"Production, processing and distribution of food","Production, processing and distribution"
+II.5.,Manufacturing,"Manufacture of medical devices and in vitro diagnostic medical devices; computer, electronic and optical products; electrical equipment; machinery and equipment; motor vehicles, trailers and semi-trailers; other transport equipment (NACE C 26-30)."
+II.6.,Digital providers,"Providers of online marketplaces, online search engines and social networking services platforms."
+II.7.,Research,Research organisations (excluding education institutions)
+,,(Optional for Member States: education institutions)
+Entities providing domain name registration services,,
