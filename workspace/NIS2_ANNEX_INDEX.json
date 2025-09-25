@@ -1,0 +1,20 @@
+{
+  "I": [
+    {
+      "file_text": "BE-NIS2-RA-v20240108 (1).xlsx.txt",
+      "annex": "I",
+      "context": "W,0.0 ,,,,,,,,,,,,,,MED,0.5 ,,,,,,,,,,,,,,IMP, ,,,,,,,,,,,,,,HIGH,10.0 ,,,,,,,,,,,,,,LOW,0.0 ,,,,,,,,,,,,,,MED,5.0  == Sheet: Sectors == Unnamed: 0,Unnamed: 1,Unnamed: 2 ,, ,, ,, ,, Sector,,Subsector Annex I: Sectors of high criticality,, I.1., Energy,\"Electricity, district Heating &cooling, Oil, Gas, Hydrogen\" I.2, Transport,Air (commercial carriers; airports; traffic); Rail (infra and undertakings); Wa",
+      "keywords": []
+    }
+  ],
+  "II": [
+    {
+      "file_text": "BE-NIS2-RA-v20240108 (1).xlsx.txt",
+      "annex": "II",
+      "context": "banks; defence, national or public security).\" ,,Of regional governments: risk based. ,,(Optional for Member States: of local governments) I.11.,Space,Operators of ground-based infrastructure (by MS) Annex II: other critical sectors,, II.1.,Postal and courier services,\"Postal service providers, including providers of courier services.\" II.2.,Waste Management,\"Undertakings carrying out waste management, ex",
+      "keywords": [
+        "risk"
+      ]
+    }
+  ]
+}

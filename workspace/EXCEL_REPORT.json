@@ -1,0 +1,746 @@
+[
+  {
+    "sheet": "Evaluations",
+    "columns": [
+      "Score metrics",
+      "0 = onjuiste aanpak/guidance + onjuiste reference",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ],
+    "head": [
+      {
+        "Score metrics": null,
+        "0 = onjuiste aanpak/guidance + onjuiste reference": "0.5 = onjuiste reference",
+        "Unnamed: 2": null,
+        "Unnamed: 3": null,
+        "Unnamed: 4": null
+      },
+      {
+        "Score metrics": null,
+        "0 = onjuiste aanpak/guidance + onjuiste reference": "1 = juiste aanpak/guidance + onjuiste reference",
+        "Unnamed: 2": null,
+        "Unnamed: 3": null,
+        "Unnamed: 4": null
+      },
+      {
+        "Score metrics": null,
+        "0 = onjuiste aanpak/guidance + onjuiste reference": null,
+        "Unnamed: 2": null,
+        "Unnamed: 3": null,
+        "Unnamed: 4": null
+      },
+      {
+        "Score metrics": "2025-09-25T00:00:00.000",
+        "0 = onjuiste aanpak/guidance + onjuiste reference": "ID.AM - 25/09",
+        "Unnamed: 2": null,
+        "Unnamed: 3": null,
+        "Unnamed: 4": null
+      },
+      {
+        "Score metrics": "Item",
+        "0 = onjuiste aanpak/guidance + onjuiste reference": "Vraag (verkort)",
+        "Unnamed: 2": "Primaire ID.AM-fit",
+        "Unnamed: 3": "Score",
+        "Unnamed: 4": "Opmerkingen / highlights"
+      }
+    ],
+    "summary": {
+      "score_counts": {
+        "nan": 4,
+        "2025-09-25 00:00:00": 4,
+        "Item": 3,
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 1,
+        "6": 1
+      }
+    }
+  },
+  {
+    "sheet": "SCRIPT ID.AM",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "ID.AM-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "In welk stadium wordt de hardware/OT-scope formeel vastgesteld, en wie voert de gap-analyse t.o.v. het SSOT-Assetregister uit?"
+      },
+      {
+        "Control": "ID.AM-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke minimale datavelden worden vastgelegd per item (type, model, serienummer, locatie, eigenaar, kriticiteit, EOL) en wie beheert het sjabloon?"
+      },
+      {
+        "Control": "ID.AM-1",
+        "Stadium (PM)": "Inkoop/Voorbereiding",
+        "Vraag": "Welke controle voorkomt rogue aankopen (pre-approved catalogus/PO-controle) en waar staat dit vastgelegd?"
+      },
+      {
+        "Control": "ID.AM-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Welke discovery/reconcile-methode wordt toegepast voor opname in CMDB/SSOT, en waar staat de laatste rapportage?"
+      },
+      {
+        "Control": "ID.AM-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Hoe wordt ongeautoriseerde of niet-ondersteunde hardware gedetecteerd en geblokkeerd; wie fiatteert uitzonderingen?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT ID.BE",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "ID.BE-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "In welk stadium wordt onze supply-chain rol (leverancier/operator/afnemer/verwerker) vastgesteld, en wie voert de gap-analyse t.o.v. het SSOT-Stakeholderregister uit?"
+      },
+      {
+        "Control": "ID.BE-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Waar staat de rol- en verantwoordelijkheidsbeschrijving gepubliceerd (locatie/versie), en wie is de owner van dit document?"
+      },
+      {
+        "Control": "ID.BE-1",
+        "Stadium (PM)": "Due diligence",
+        "Vraag": "Welke externe afhankelijkheden/afnemers raken deze scope, en waar is de overzichtslijst met contactpunten en impact vastgelegd?"
+      },
+      {
+        "Control": "ID.BE-1",
+        "Stadium (PM)": "Contractering",
+        "Vraag": "Welke verplichtingen volgen uit onze rol (NIS2/sector/SLA/OLA) en waar zijn die contractueel/beleidsmatig vastgelegd?"
+      },
+      {
+        "Control": "ID.BE-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe worden rolwijzigingen door scope-changes herbeoordeeld en gecommuniceerd (proces, kanaal, doorlooptijd)?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT ID.GV",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "ID.GV-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "In welk stadium wordt het cybersecuritybeleid van toepassing verklaard op de scope, en wie voert de gap-analyse t.o.v. het SSOT-Governanceregister uit?"
+      },
+      {
+        "Control": "ID.GV-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Waar staat de geldige beleidsversie (locatie/versie) en wie is de document-owner inclusief wijzigingsprocedure en reviewcyclus?"
+      },
+      {
+        "Control": "ID.GV-1",
+        "Stadium (PM)": "Build",
+        "Vraag": "Welke standaarden/procedures zijn verplicht voor dit project (namen/links) en wie levert evidence per control?"
+      },
+      {
+        "Control": "ID.GV-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Waar staat de policy-conformiteitschecklist en de UAT-evidence dat verplichte controls zijn uitgevoerd?"
+      },
+      {
+        "Control": "ID.GV-1",
+        "Stadium (PM)": "Acceptatie",
+        "Vraag": "Wie fiatteert policy-naleving (functie/naam) en welke blokkerende criteria gelden bij afwijkingen?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT ID.RA",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "ID.RA-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Wanneer wordt de scope voor kwetsbaarhedenbeheer vastgesteld (in/uit scope) en wie voert de gap-analyse t.o.v. SSOT-asset/app-registers uit (naam/rol)?"
+      },
+      {
+        "Control": "ID.RA-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke registratieset gebruiken jullie voor bevindingen (asset, CVE, severity, eigenaar, targetdatum, status) en wie beheert het sjabloon (locatie/versie/owner)?"
+      },
+      {
+        "Control": "ID.RA-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Wat is de scan- en testkalender (images, IaC, containers, OT waar veilig), en wie fiatteert uitzonderingen op scannen (rol + criterium)?"
+      },
+      {
+        "Control": "ID.RA-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Welke evidence is beschikbaar van scan/pen-test en hertest op fixes; wie valideert false positives?"
+      },
+      {
+        "Control": "ID.RA-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke open bevindingen gaan door met tijdelijke maatregel of risk-acceptatie; wie tekent af en wat is de einddatum?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT ID.RM",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "ID.RM-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar is het geldende risicomanagement-raamwerk (locatie/versie/owner) en welke scope is van toepassing?"
+      },
+      {
+        "Control": "ID.RM-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Lever de RACI voor risicomanagement (risk owner, risk advisor, fiatteur, rapportage-adres)."
+      },
+      {
+        "Control": "ID.RM-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke methode & score-matrix gebruiken we (likelihood/impact), en waar staat het risicosjabloon?"
+      },
+      {
+        "Control": "ID.RM-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke gates eisen een expliciete risicobeoordeling (design/release/go-no-go) en wat zijn de blokkerende drempels?"
+      },
+      {
+        "Control": "ID.RM-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe worden risico\u2019s gekoppeld aan backlog/roadmap (item-link, eigenaar, einddatum) en wie bewaakt voortgang?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT ID.SC",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "ID.SC-2",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Welke leveranciers/partners vallen binnen scope en wie voert de gap-analyse t.o.v. SSOT-Suppliers (naam/rol)?"
+      },
+      {
+        "Control": "ID.SC-2",
+        "Stadium (PM)": "Due diligence",
+        "Vraag": "Welke risicocriteria gebruiken jullie en wat is de classificatie per leverancier (uitkomst + datum/beoordelaar)?"
+      },
+      {
+        "Control": "ID.SC-2",
+        "Stadium (PM)": "Due diligence",
+        "Vraag": "Welke assurance-artefacten zijn ontvangen (ISO/SOC, questionnaires, pen-test attesten) en wat is de beslissing per item?"
+      },
+      {
+        "Control": "ID.SC-2",
+        "Stadium (PM)": "Planning",
+        "Vraag": "Welke leveranciers zijn kritiek (tijd/kwaliteit/veiligheid), wat zijn de SPOF\u2019s en geplande mitigaties?"
+      },
+      {
+        "Control": "ID.SC-2",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Wie is eigenaar van het leveranciersrisicoregister en hoe worden updates verwerkt (frequentie/bron)?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT PR.AC ",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "PR.AC-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "In welk stadium wordt de IAM-bron bepaald (HR/partner/IdP) en wie voert de gap-analyse t.o.v. het SSOT-rollen/functieregister uit?"
+      },
+      {
+        "Control": "PR.AC-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Waar staat de toegangsmodel-schets (RBAC/ABAC), inclusief mapping van projectrollen \u2192 systeemrechten, en wie beheert deze?"
+      },
+      {
+        "Control": "PR.AC-1",
+        "Stadium (PM)": "Inkoop/Contract",
+        "Vraag": "Welke MFA-eisen gelden per doelgroep (intern, extern, beheer) en waar zijn ze contractueel/beleidsmatig vastgelegd?"
+      },
+      {
+        "Control": "PR.AC-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe worden identiteiten en credentials uitgegeven, gewijzigd en ingetrokken (JML-workflow), en waar staat de procesbeschrijving?"
+      },
+      {
+        "Control": "PR.AC-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Waar is evidence dat aanmaak/wijziging/intrekking van accounts is getest (incl. time-to-revoke en notificaties)?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": " SCRIPT PR.DS",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "PR.DS-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar staat het dataclassificatiemodel dat hier geldt (locatie/versie/rol-owner) en welke datasets vallen binnen scope?"
+      },
+      {
+        "Control": "PR.DS-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke at-rest beschermingsmaatregelen gelden (encryptie, sleutelbeheer, HSM/KMS, sleutel-rotatie) en waar staat het ontwerp?"
+      },
+      {
+        "Control": "PR.DS-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe is encryptie-at-rest technisch ingericht (componenten, policy, uitzonderingen) en wie is rol-owner per component?"
+      },
+      {
+        "Control": "PR.DS-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Waar is evidence dat encryptie-at-rest en sleutelrotatie zijn getest (incl. negatieve tests/failure-modes)?"
+      },
+      {
+        "Control": "PR.DS-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke uitzonderingen op encryptie-at-rest blijven open (redenen, compensatie, einddatum) en wie fiatteert?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT PR.IP",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "PR.IP-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke baseline-items zijn verplicht (OS/app-versies, services, poorten/protocollen, hardening, least functionality)?"
+      },
+      {
+        "Control": "PR.IP-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe wordt baseline-afdwinging gedaan (config-templates/policies/automation) en waar staan scripts/profielen?"
+      },
+      {
+        "Control": "PR.IP-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Waar is evidence dat baseline-instellingen getest/geverifieerd zijn (incl. negatieve tests en rollback)?"
+      },
+      {
+        "Control": "PR.IP-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke afwijkingen op baseline zijn toegestaan (lijst, compensaties, einddatum) en wie tekent af?"
+      },
+      {
+        "Control": "PR.IP-1",
+        "Stadium (PM)": "Nazorg/Overdracht",
+        "Vraag": "Wat is de recertificatie-cadans van baselines en waar staat het wijzigingslog?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT PR.MA",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "PR.MA-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Wanneer wordt onderhoudsscope vastgesteld (assets in/uit scope) en welke rol voert de gap-analyse t.o.v. het onderhouds-/assetregister uit? Voeg locatie/versie van het register toe."
+      },
+      {
+        "Control": "PR.MA-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke onderhoudsvensters en autorisatieprocedure gelden (criteria, goedkeurdersrol) en waar staat het procesdocument (locatie/versie)?"
+      },
+      {
+        "Control": "PR.MA-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Waar staan de SOP/runbooks voor gepland onderhoud (stappen, risico\u2019s, back-out) en welke rol beheert ze (incl. versiedatum)?"
+      },
+      {
+        "Control": "PR.MA-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever evidence van een onderhouds-dry-run of simulatie (resultaat, afwijkingen) en noem de fiatterende rol."
+      },
+      {
+        "Control": "PR.MA-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Lever de goedgekeurde onderhoudskalender (blackout-data, vensters) en de rol die afwijkt/opschort."
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT PR.PT",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "PR.PT-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Bepaal de logscope (systemen/gegevens) en lever de logging-standaard (locatie/versie) + ownerrol."
+      },
+      {
+        "Control": "PR.PT-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke logvelden/normen gelden (tijdbron, integriteit, privacy-masking) en waar staat het schema (locatie/versie)?"
+      },
+      {
+        "Control": "PR.PT-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe worden logs verzameld en beveiligd (forwarding/immutability/tamper-detectie) en wie is beheerder (rol)?"
+      },
+      {
+        "Control": "PR.PT-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever evidence van succes-/faal-logging en alerting op kritieke events; noem de validator-rol."
+      },
+      {
+        "Control": "PR.PT-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke use-cases moeten minimaal afgedekt zijn (detectie/forensic) en wie tekent af (rol)?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT DE.AE",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "DE.AE-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar staat de operations-baseline van normale netwerk-/datastromen die voor deze scope geldt (locatie/versie) en welke rol is owner?"
+      },
+      {
+        "Control": "DE.AE-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke telemetriebronnen gebruiken jullie voor de baseline (netflow/EDR/app-logs) en welke granulariteit/tijdbron/retentie gelden?"
+      },
+      {
+        "Control": "DE.AE-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe wordt de baseline technisch opgebouwd en ververst (jobs/schedules) en waar staat de artefactenmap (locatie/versie)?"
+      },
+      {
+        "Control": "DE.AE-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever evidence dat baseline-deviaties worden gedetecteerd (dekkingsgraad %, driftcases) en noem de validator-rol."
+      },
+      {
+        "Control": "DE.AE-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke afwijkingsdrempels (thresholds) zijn vastgesteld voor alerts op baseline-afwijkingen en wie fiatteert?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT DE.CM",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "DE.CM-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Welke netwerkzones/segmenten moeten worden gemonitord en wie is owner-rol per zone?"
+      },
+      {
+        "Control": "DE.CM-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke telemetrietypen (NetFlow/PCAP/IDS) en sensor-plaatsing (diagram) zijn vereist; waar staat het ontwerp?"
+      },
+      {
+        "Control": "DE.CM-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Lever dekkingsevidence (sensoren uitgerold, % coverage) en noem beheer-/supportrol."
+      },
+      {
+        "Control": "DE.CM-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever detectie-evidence voor basisuse-cases (portscan, C2, exfil) en negatieve tests."
+      },
+      {
+        "Control": "DE.CM-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke SLO\u2019s gelden (latency, packet-loss, alert-tijd) en wat zijn go/no-go drempels?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT DE.DP",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "DE.DP-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Lever de RACI voor detectieactiviteiten (analyse, triage, tuning, onderhoud) \u2013 rol (verplicht), evt. naam/contact, en locatie/versie van het document."
+      },
+      {
+        "Control": "DE.DP-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Waar staat de detectie-governance (besluitrechten, escalaties, on-call) en wie is document-owner (rol)? Voeg versie/datum toe."
+      },
+      {
+        "Control": "DE.DP-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Welke runbooks zijn beschikbaar per detectie-use-case (format, locatie) en welke rol onderhoudt ze?"
+      },
+      {
+        "Control": "DE.DP-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Wie valideert triagekwaliteit (SLA\u2019s, juiste classificatie) en waar staat de laatste kwaliteitsreview (locatie/versie)?"
+      },
+      {
+        "Control": "DE.DP-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Wie fiatteert operationele gereedheid van detectie (dekking, bezetting, tooling) \u2013 rol + datum/sign-off-locatie."
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT RS.RP",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "RS.RP-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar staat het responsplan dat op deze scope geldt (locatie/versie) en wie is document-owner (rol)?"
+      },
+      {
+        "Control": "RS.RP-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke playbooks (type incident, criteria, rollen, timers) zijn verplicht en waar staat de bibliotheek?"
+      },
+      {
+        "Control": "RS.RP-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe zijn koppelingen ingericht met detectie/monitoring (alert \u2192 triage \u2192 respons) en welke rollen bewaken overdracht?"
+      },
+      {
+        "Control": "RS.RP-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever evidence van een recente respons-oefening (tabletop/technisch) met uitkomst en lessons learned."
+      },
+      {
+        "Control": "RS.RP-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke go/no-go drempels gelden voor respons-gereedheid (bereikbaarheid, on-call, runbooks) en wie fiatteert (rol)?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT RS.CO",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "RS.CO-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar staat het communicatieplan voor incidenten (locatie/versie) en welke rol is document-owner?"
+      },
+      {
+        "Control": "RS.CO-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke rollen & bevoegdheden (woordvoering, autorisatie van berichten) gelden, en waar staat de bevoegdhedenmatrix?"
+      },
+      {
+        "Control": "RS.CO-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Welke kanalen worden gebruikt (bridge, mail, statuspage, pers), wie beheert toegang (rol), en waar staat het kanalenregister?"
+      },
+      {
+        "Control": "RS.CO-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever evidence van een communicatie-oefening (scenario, responstijden, lessons learned) en noteer de validator-rol."
+      },
+      {
+        "Control": "RS.CO-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke go/no-go-criteria gelden voor communicatiestart (minimale info, goedkeurder-rol, fallbacktekst)?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT RS.AN",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "RS.AN-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar staat het triage-/analyseproces (locatie/versie) en wie is owner-rol?"
+      },
+      {
+        "Control": "RS.AN-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke classificaties & prioriteitsregels worden gebruikt voor meldingen en wie onderhoudt de taxonomie (rol)?"
+      },
+      {
+        "Control": "RS.AN-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe worden signal\u2192case conversies gedaan (drempels, auto-ticket) en waar staat de config (locatie/versie)?"
+      },
+      {
+        "Control": "RS.AN-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever evidence van triagecases (doorlooptijd, juiste classificatie) en noem de validator-rol."
+      },
+      {
+        "Control": "RS.AN-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke minimale analyse-artefacten zijn verplicht (timeline, betrokken assets, hypothese) en wie fiatteert?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT RS.MI",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "RS.MI-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar staat het containment-/eradicationplan (locatie/versie) en welke rol is bevoegd om systemen te isoleren/kill switch te activeren?"
+      },
+      {
+        "Control": "RS.MI-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke containment-scenario\u2019s zijn gedefinieerd (EDR isolate, netwerksegmentatie, account lockdown) en welke criteria/timers gelden per scenario?"
+      },
+      {
+        "Control": "RS.MI-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Waar staan de runbooks voor containment/eradication (artefactlocatie) en wie is runbook-owner (rol)?"
+      },
+      {
+        "Control": "RS.MI-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Lever evidence van een containment-oefening (case, doorlooptijd tot isolatie, lessons learned) en noem de validator-rol."
+      },
+      {
+        "Control": "RS.MI-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke go/no-go-drempels (bv. actieve exfil, laterale beweging) verplichten onmiddellijke containment, en wie fiatteert?"
+      }
+    ],
+    "summary": {}
+  },
+  {
+    "sheet": "SCRIPT RS.IM",
+    "columns": [
+      "Control",
+      "Stadium (PM)",
+      "Vraag"
+    ],
+    "head": [
+      {
+        "Control": "RS.IM-1",
+        "Stadium (PM)": "Initiatie (PID)",
+        "Vraag": "Waar staat de PIR/lessons-learned-procedure (locatie/versie) en welke rol is eigenaar?"
+      },
+      {
+        "Control": "RS.IM-1",
+        "Stadium (PM)": "Ontwerp",
+        "Vraag": "Welke minimale PIR-artefacten zijn vereist (timeline, root cause, besluiten, acties met owner/termijn) en waar staat het sjabloon?"
+      },
+      {
+        "Control": "RS.IM-1",
+        "Stadium (PM)": "Build/Configuratie",
+        "Vraag": "Hoe worden verbeteracties gekoppeld aan backlog/roadmap (item-ID, prioriteit, eigenaar) en wie monitort voortgang (rol)?"
+      },
+      {
+        "Control": "RS.IM-1",
+        "Stadium (PM)": "Test/UAT",
+        "Vraag": "Is er evidence dat verbeteringen (rules/runbooks/controls) geregresseerd zijn getest v\u00f3\u00f3r productie?"
+      },
+      {
+        "Control": "RS.IM-1",
+        "Stadium (PM)": "Acceptatie/Go-Live",
+        "Vraag": "Welke go/no-go-regels gelden voor het doorvoeren van PIR-gedreven wijzigingen (testdekking, risico, fiatteur-rol)?"
+      }
+    ],
+    "summary": {}
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "file": "10 Golden rules for cyber security.docx",
+    "ext": ".docx",
+    "size": 968811,
+    "out": "kb_text/10 Golden rules for cyber security.docx.txt"
+  },
+  {
+    "file": "17_1_BelgischStaatsblad_MoniteurBelge.pdf",
+    "ext": ".pdf",
+    "size": 3458110,
+    "out": "kb_text/17_1_BelgischStaatsblad_MoniteurBelge.pdf.txt"
+  },
+  {
+    "file": "Access control policy (BASIC).docx",
+    "ext": ".docx",
+    "size": 940505,
+    "out": "kb_text/Access control policy (BASIC).docx.txt"
+  },
+  {
+    "file": "Assetmanagement policy_EN_V1.0.docx",
+    "ext": ".docx",
+    "size": 983155,
+    "out": "kb_text/Assetmanagement policy_EN_V1.0.docx.txt"
+  },
+  {
+    "file": "BE-NIS2-RA-v20240108 (1).xlsx",
+    "ext": ".xlsx",
+    "size": 273323,
+    "out": "kb_text/BE-NIS2-RA-v20240108 (1).xlsx.txt"
+  },
+  {
+    "file": "Backup and recovery policy.docx",
+    "ext": ".docx",
+    "size": 1438439,
+    "out": "kb_text/Backup and recovery policy.docx.txt"
+  },
+  {
+    "file": "CyFUN_ BELANGRIJK_V2023-03-01_N_update 2024.pdf",
+    "ext": ".pdf",
+    "size": 1633305,
+    "out": "kb_text/CyFUN_ BELANGRIJK_V2023-03-01_N_update 2024.pdf.txt"
+  },
+  {
+    "file": "CyFUN_ ESSENTIEEL_V2023-03-01_N_update 2024 (4).pdf",
+    "ext": ".pdf",
+    "size": 1701307,
+    "out": "kb_text/CyFUN_ ESSENTIEEL_V2023-03-01_N_update 2024 (4).pdf.txt"
+  },
+  {
+    "file": "CyFUN_BASIS_V2023-03-01_N_update 2024.pdf",
+    "ext": ".pdf",
+    "size": 1176324,
+    "out": "kb_text/CyFUN_BASIS_V2023-03-01_N_update 2024.pdf.txt"
+  },
+  {
+    "file": "CyFUN_SMALL_V2023-03-01_N_update 2024.pdf",
+    "ext": ".pdf",
+    "size": 632571,
+    "out": "kb_text/CyFUN_SMALL_V2023-03-01_N_update 2024.pdf.txt"
+  },
+  {
+    "file": "CyFun Maturity Level Key-Govern Measures_20240909 (1).pdf",
+    "ext": ".pdf",
+    "size": 1981654,
+    "out": "kb_text/CyFun Maturity Level Key-Govern Measures_20240909 (1).pdf.txt"
+  },
+  {
+    "file": "CyFun Self-Assessment tool V2025-08-04 (1).xlsx",
+    "ext": ".xlsx",
+    "size": 169800,
+    "out": "kb_text/CyFun Self-Assessment tool V2025-08-04 (1).xlsx.txt"
+  },
+  {
+    "file": "CyFun mapping Public_v20240108 (1).xlsx",
+    "ext": ".xlsx",
+    "size": 136853,
+    "out": "kb_text/CyFun mapping Public_v20240108 (1).xlsx.txt"
+  },
+  {
+    "file": "CyFun_Self Assessment user instructions_Jan2024.pdf",
+    "ext": ".pdf",
+    "size": 1935972,
+    "out": "kb_text/CyFun_Self Assessment user instructions_Jan2024.pdf.txt"
+  },
+  {
+    "file": "CyFun_video_v20240820 (final-2024-09-16).pdf",
+    "ext": ".pdf",
+    "size": 3663275,
+    "out": "kb_text/CyFun_video_v20240820 (final-2024-09-16).pdf.txt"
+  },
+  {
+    "file": "Cyber Incident Response Plan_EN_V1.0.docx",
+    "ext": ".docx",
+    "size": 1206075,
+    "out": "kb_text/Cyber Incident Response Plan_EN_V1.0.docx.txt"
+  },
+  {
+    "file": "CyberFundamentals Maturity Level description (1).pdf",
+    "ext": ".pdf",
+    "size": 306842,
+    "out": "kb_text/CyberFundamentals Maturity Level description (1).pdf.txt"
+  },
+  {
+    "file": "Cybersecurity policy (BASIC).docx",
+    "ext": ".docx",
+    "size": 938623,
+    "out": "kb_text/Cybersecurity policy (BASIC).docx.txt"
+  },
+  {
+    "file": "IMPACT LEVELS_v2023-07-10.pdf",
+    "ext": ".pdf",
+    "size": 198224,
+    "out": "kb_text/IMPACT LEVELS_v2023-07-10.pdf.txt"
+  },
+  {
+    "file": "Network security policy.docx",
+    "ext": ".docx",
+    "size": 938792,
+    "out": "kb_text/Network security policy.docx.txt"
+  },
+  {
+    "file": "Passwords policy (BASIC).docx",
+    "ext": ".docx",
+    "size": 936388,
+    "out": "kb_text/Passwords policy (BASIC).docx.txt"
+  },
+  {
+    "file": "Policies around vulnerability and patch management.docx",
+    "ext": ".docx",
+    "size": 940476,
+    "out": "kb_text/Policies around vulnerability and patch management.docx.txt"
+  }
+]

@@ -1,0 +1,253 @@
+CyberFundamentals
+Self-Assessment Tool - User Instructions
+
+National Cybersecurity Certification Authority (NCCA)
+
+Centre for Cybersecurity Belgium
+
+Under the authority of the Prime Minister
+
+
+Where can you find the tool
+
+CyberFundamentals
+Self-Assessment tool
+is
+publicly available (EN)
+www.cyfun.be
+
+CyFun-Toolbox
+
+CyFun Self-Assessment tool
+
+2
+
+
+What does the tool look like
+
+USE LAST VERSION
+
+USE LAST VERSION
+
+3
+
+
+The CyFun(r) Self-Assessment tool -
+Conformity Assessment Scheme
+
+The tool is part of a
+conformity assessment
+scheme under
+accreditation which
+requires results to be
+reliable
+
+Some cells are
+protected and shall
+not be changed
+
+4
+
+
+CyberFundamentals is measurable
+
+Level 1 - Initial
+
+Level 2 - Repeatable
+
+Level 3 - Defined
+
+Level 4 - Managed
+
+Level 5 - Optimized
+
+Documentation
+
+Implementation
+
+Maturity
+
+5
+
+
+The maturity levels
+
+Maturity level
+
+Documentation
+
+Documentation
+score
+
+Implementation
+
+Implementation
+score
+
+Initial
+(Level 1)
+
+No Process documentation or not formally approved by
+management
+
+Standard process does not exist.
+
+Repeatable
+(Level 2)
+
+Formally approved Process documentation exists but not
+reviewed in the previous 2 years
+
+Ad-hoc process exists and is done informally.
+
+Defined
+(Level 3)
+
+Formally approved Process documentation exists, and
+exceptions are documented and approved. Documented &
+approved exceptions < 5% of the time
+
+Formal process exists and is implemented. Evidence available
+for most activities. Less than 10% process exceptions.
+
+Managed
+(Level 4)
+
+Formally approved Process documentation exists, and
+exceptions are documented and approved. Documented &
+approved exceptions < 3% of the time
+
+Optimizing
+(Level 5)
+
+Formally approved Process documentation exists, and
+exceptions are documented and approved. Documented &
+approved exceptions < 0,5% of the time
+
+Formal process exists and is implemented. Evidence available for
+all activities. Detailed metrics of the process are captured and
+reported.
+Minimal target for metrics has been established. Less than 5% of
+process exceptions.
+
+Formal process exists and is implemented. Evidence available for
+all activities. Detailed metrics of the process are captured and
+reported.
+Minimal target for metrics has been established and continually
+improving. Less than 1% of process exceptions.
+
+6
+
+
+The CyberFundamentals Architecture
+
+7
+
+RequirementGuidanceKey MeasurePROTECT (PR)Identity Management, Authentication and Access Control (PR.AC)PR.AC-4: Access permissions and authorizations are managed, incorporating the principles of least privilege and separation of dutiesAccess permissions for users to the organization's systems shall be defined and managed.The following should be considered:Draw up and review regularly access lists per system (files, servers, software, databases, etc.), possibly through analysis of the Active Directory in Windows-based systems (...)Key MeasureFunctionCategorySubcategoryBasicRequirementGuidanceKey MeasureWhere feasible, automated mechanisms shall be implemented to support the management of user accounts on  (...)Consider separately identifying each person with access to the organization's critical systems with  (...)ImportantRequirementGuidanceKey MeasureAccount usage restrictions for specific time periods and locations shall be taken into account  (...)Specific restrictions can include, for example, restricting usage  (...)EssentialCIS v8 Critical Security Control 3, 4, ...IEC 62443-2-1:2010, 4.3.3.7.3IEC 62443-3-3:2013, SR 2.1ISO/IEC 27001:2022, Clause 8.1, Annex A (see ISO 27002)ISO/IEC 27002:2022, 5.3, 5.15, ...References per subcategory
+The 'Details' tab
+
+MANUAL INPUT (unprotected cells)
+
+SELECT
+
+Your own
+notes
+(unprotected cells)
+
+AUTOMATIC
+calculation
+(protected cells)
+
+Documentation
+score
+
+Implementation
+score
+
+8
+
+
+The 'Summary' tab BASIC
+
+Full
+AUTOMATIC
+calculation
+(protected cells)
+
+Key Measure Maturity
+Total Maturity
+
+>= 2,5/5
+>= 2,5/5
+
+USE LAST VERSION
+
+9
+
+
+The 'Summary' tab
+
+IMPORTANT
+
+Full
+AUTOMATIC
+calculation
+(protected cells)
+
+USE LAST VERSION
+
+Key Measure Maturity
+Total Maturity
+
+>= 3/5
+>= 3/5
+
+BASIC
+
+10
+
+
+The 'Summary' tab
+
+ESSENTIAL
+
+Full
+AUTOMATIC
+calculation
+(protected cells)
+
+Key Measure Maturity >= 3/5
+
+Category Maturity
+
+>= 3/5
+
+Total Maturity
+
+>= 3,5/5
+
+BASIC
+
+IMPORTANT
+
+USE LAST VERSION
+
+11
+
+
+Questions - Feedback
+
+One address
+certification@ccb.belgium.be
+
+12
+
+
+National Cybersecurity Certification Authority (NCCA)
+certification@ccb.belgium.be
+
+Centre for Cybersecurity Belgium
+Under the authority of the Prime Minister
+Rue de la Loi / Wetstraat 18 - 1000 Brussels
+www.ccb.belgium.be
+

@@ -1,0 +1,430 @@
+[
+  {
+    "file_text": "10 Golden rules for cyber security.docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": []
+  },
+  {
+    "file_text": "17_1_BelgischStaatsblad_MoniteurBelge.pdf.txt",
+    "articles_detected": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "3",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "4",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "5",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "6",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "7",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "8",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "9",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99"
+    ],
+    "annex_refs": [],
+    "top_keywords": [
+      "incident",
+      "procedure",
+      "notification",
+      "impact",
+      "monitoring",
+      "report",
+      "governance",
+      "risk",
+      "asset"
+    ]
+  },
+  {
+    "file_text": "Access control policy (BASIC).docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "password",
+      "policy",
+      "network",
+      "asset",
+      "procedure"
+    ]
+  },
+  {
+    "file_text": "Assetmanagement policy_EN_V1.0.docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "asset",
+      "policy",
+      "network",
+      "incident",
+      "training",
+      "procedure",
+      "access control",
+      "report",
+      "backup",
+      "recovery"
+    ]
+  },
+  {
+    "file_text": "BE-NIS2-RA-v20240108 (1).xlsx.txt",
+    "articles_detected": [],
+    "annex_refs": [
+      "Annex I",
+      "Annex II"
+    ],
+    "top_keywords": [
+      "risk",
+      "impact",
+      "network"
+    ]
+  },
+  {
+    "file_text": "Backup and recovery policy.docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "backup",
+      "recovery",
+      "procedure",
+      "network",
+      "risk",
+      "policy",
+      "monitoring",
+      "testing",
+      "incident",
+      "report"
+    ]
+  },
+  {
+    "file_text": "CyFUN_ BELANGRIJK_V2023-03-01_N_update 2024.pdf.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "incident",
+      "procedure",
+      "monitoring",
+      "recovery",
+      "patch",
+      "impact",
+      "network",
+      "logging",
+      "risk",
+      "governance"
+    ]
+  },
+  {
+    "file_text": "CyFUN_ ESSENTIEEL_V2023-03-01_N_update 2024 (4).pdf.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "incident",
+      "procedure",
+      "monitoring",
+      "recovery",
+      "patch",
+      "impact",
+      "logging",
+      "asset",
+      "network",
+      "risk"
+    ]
+  },
+  {
+    "file_text": "CyFUN_BASIS_V2023-03-01_N_update 2024.pdf.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "incident",
+      "procedure",
+      "patch",
+      "logging",
+      "recovery",
+      "governance",
+      "impact",
+      "vulnerability",
+      "network"
+    ]
+  },
+  {
+    "file_text": "CyFUN_SMALL_V2023-03-01_N_update 2024.pdf.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "incident",
+      "patch",
+      "network",
+      "impact",
+      "procedure"
+    ]
+  },
+  {
+    "file_text": "CyFun Maturity Level Key-Govern Measures_20240909 (1).pdf.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "maturity",
+      "risk",
+      "network",
+      "report",
+      "patch",
+      "asset",
+      "monitoring",
+      "policy",
+      "supply chain",
+      "logging"
+    ]
+  },
+  {
+    "file_text": "CyFun Self-Assessment tool V2025-08-04 (1).xlsx.txt",
+    "articles_detected": [
+      "3"
+    ],
+    "annex_refs": [],
+    "top_keywords": [
+      "risk",
+      "maturity",
+      "asset",
+      "network",
+      "procedure",
+      "incident",
+      "recovery",
+      "vulnerability",
+      "password",
+      "supply chain"
+    ]
+  },
+  {
+    "file_text": "CyFun mapping Public_v20240108 (1).xlsx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "risk",
+      "asset",
+      "network",
+      "supply chain",
+      "impact",
+      "procedure",
+      "vulnerability",
+      "recovery",
+      "testing",
+      "password"
+    ]
+  },
+  {
+    "file_text": "CyFun_Self Assessment user instructions_Jan2024.pdf.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "maturity",
+      "report",
+      "access control"
+    ]
+  },
+  {
+    "file_text": "CyFun_video_v20240820 (final-2024-09-16).pdf.txt",
+    "articles_detected": [
+      "30"
+    ],
+    "annex_refs": [],
+    "top_keywords": [
+      "risk",
+      "incident",
+      "maturity",
+      "backup",
+      "network",
+      "vulnerability",
+      "impact",
+      "report",
+      "threshold",
+      "asset"
+    ]
+  },
+  {
+    "file_text": "Cyber Incident Response Plan_EN_V1.0.docx.txt",
+    "articles_detected": [
+      "11",
+      "12"
+    ],
+    "annex_refs": [],
+    "top_keywords": [
+      "incident",
+      "report",
+      "procedure",
+      "recovery",
+      "network",
+      "impact",
+      "notification",
+      "risk",
+      "testing",
+      "exercise"
+    ]
+  },
+  {
+    "file_text": "CyberFundamentals Maturity Level description (1).pdf.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "maturity",
+      "network",
+      "governance",
+      "report",
+      "procedure"
+    ]
+  },
+  {
+    "file_text": "Cybersecurity policy (BASIC).docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "policy",
+      "risk",
+      "procedure",
+      "patch",
+      "incident",
+      "password",
+      "network",
+      "backup",
+      "recovery"
+    ]
+  },
+  {
+    "file_text": "IMPACT LEVELS_v2023-07-10.pdf.txt",
+    "articles_detected": [
+      "4"
+    ],
+    "annex_refs": [],
+    "top_keywords": [
+      "impact",
+      "asset",
+      "risk",
+      "network"
+    ]
+  },
+  {
+    "file_text": "Network security policy.docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "network",
+      "policy",
+      "password",
+      "logging",
+      "monitoring",
+      "testing"
+    ]
+  },
+  {
+    "file_text": "Passwords policy (BASIC).docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "password",
+      "policy",
+      "network",
+      "risk",
+      "report"
+    ]
+  },
+  {
+    "file_text": "Policies around vulnerability and patch management.docx.txt",
+    "articles_detected": [],
+    "annex_refs": [],
+    "top_keywords": [
+      "vulnerability",
+      "patch",
+      "risk",
+      "policy",
+      "network",
+      "impact",
+      "coordinated vulnerability disclosure",
+      "monitoring",
+      "asset",
+      "report"
+    ]
+  }
+]

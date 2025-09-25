@@ -1,0 +1,211 @@
+Description of impact levels High, Medium and Low
+
+Impact Level HIGH
+
+The threat is expected to have serious or catastrophic disruptive effects on organisations' network and information systems (economic), organisations' assets
+(financial), individuals (health, privacy, daily life, well-being), the nation (security and public order) or the functioning of international institutions on Belgian territory.
+Serious or catastrophic disruptive impact means that the threat has an impact as below:
+
+Healthcare
+
+Over 200 (1) dead, chronically ill or with
+long-term disability
+
+*  Over 75.000 (3) people with short-term health problems.
+*  Severe environmental pollution affecting our country's natural habitat.
+
+Description
+
+Personal sphere
+
+Loss of personal data of more than
+1.000.000 persons (GDPR Art 4.)
+
+Daily life
+
+Wellbeing
+
+Financial
+
+Significant Impact on daily life of
+75.000 (2) people
+Impact on welfare (e.g. housing, provision
+of food and drinking water) for more than
+75.000 people
+Financial impact of minimum EUR 1.500 (3)
+on 75.000 people.
+
+Individuals may face significant consequences, which they should be able to overcome, albeit with
+serious difficulties (misappropriation of funds, blacklisting by financial institutions, property damage,
+loss of employment, summons, deterioration in health, etc.)
+
+Ecological contamination with long-term effects on more than 75.000 people.
+
+*  Critical damage to organisations' assets.
+*  Critical financial losses in organisations.
+*  Impact on more than 25% of the essential services in the sector.
+*  Severe deterioration or reduction in the ability to perform the organisation's mission such that the
+
+Economics
+
+Loss of more than 0.1% of GDP
+
+organisation cannot perform one or more of its primary functions.
+
+*  Destruction of essential infrastructure.
+*  Serious threat to economic prosperity.
+*  Difficulties for the state, and even an inability, to secure a regulatory function or one of its vital
+
+missions.
+
+Security and
+public order
+
+National impact on the protection of the
+state and services that ensure security
+and public order
+
+*  There is serious reputational damage to the state. There is risk of loss of confidence in the state
+
+creating fear, uncertainty and doubt.
+
+*  Protection of the achievements of the democratic rule of law and its shared values is no longer
+
+International
+Institutions
+
+Significant impact on the operation of
+international institutions on Belgian
+territory
+
+assured.
+
+*  The physical security of citizens and the physical integrity of our country is no longer assured.
+
+*  International order based on international law and multilateral frameworks is no longer assured.
+*  The effective functioning of the European Union is no longer assured.
+
+Version: 2023-07-10
+
+Page 1 of 3
+
+
+
+
+
+
+
+
+Description of impact levels High, Medium and Low
+
+Impact Level MEDIUM
+
+Description
+The threat is expected to have serious disruptive consequences on organisations' network and information systems ( economically), organisations' assets (financially),
+individuals (health, privacy, daily life and wellbeing), the nation (security and public order) or the functioning of international institutions on Belgian territory. Serious
+disruptive consequence means that the threat has an impact as below:
+
+Healthcare
+
+Substantial harm to persons not involving
+deaths or serious life-threatening injuries.
+
+*  Individuals may experience significant discomfort, which they overcome despite some
+
+difficulties (fear, misunderstanding, stress, minor physical ailments, etc.).
+*  Major environmental pollution threatening our country's natural habitat.
+
+Personal sphere
+
+Loss of personal data of more than 20.000
+persons (GDPR Art 4.)
+
+Individuals may experience considerable inconvenience, which they overcome despite
+some difficulties (additional costs, denial of access to business services, fear,
+misunderstanding, etc.).
+
+Daily life
+
+Wellbeing
+
+Financial
+
+Economics
+
+Security and public order
+
+International Institutions
+
+Significant Impact on daily life of
+15.000 (2) people
+Impact on welfare (e.g. housing, provision of
+food and drinking water) for more than
+15.000 people
+Financial impact of minimum EUR 1.500 (3) on
+15.000 people.
+*  A significant deterioration in the ability to perform the mission of organisations to the extent and duration that the organisation
+
+*  Significant damage to organisations' assets.
+*  Significant financial losses in organisations.
+
+Ecological contamination with long-term effects on more than 15.000 people.
+
+concerned is able to perform its primary functions, but the effectiveness of those functions is significantly reduced.
+
+*  Destruction of important but not essential infrastructure.
+*  Economic prosperity is threatened.
+Inability for organisations or the state to ensure all or part of its activities (including the operation of the Intelligence and Security
+Services), with potentially serious consequences for the security of persons and property.
+*  The international order based on international law and multilateral frameworks is under threat.
+*  The effective functioning of the European Union is compromised.
+*  The effective functioning of international institutions on Belgian territory is compromised.
+
+Version: 2023-07-10
+
+Page 2 of 3
+
+
+
+
+
+
+
+
+
+
+
+Description of impact levels High, Medium and Low
+
+Impact Level LOW
+
+The threat is expected to have a limited disruptive effect on organisations' network and information systems, with a limited impact on organisations' operations,
+organisations' assets, the nation or the functioning of international institutions on Belgian territory.
+A limited disruptive effect means, for example, that the threat: (i) affects the ability to carry out an organisation's mission to such an extent that the organisation is
+able to perform its primary functions, but noticeably reduces the effectiveness of these functions; (ii) may result in minor damage to organisations' assets; (iii) may
+result in minor financial losses; (iv) may result in minor damage to individuals, or individuals may experience some minor inconveniences, which they overcome
+without difficulty (time needed to re-enter information, annoyances, irritations, etc.).
+
+Description
+
+(1) Average capacity of aircraft and train
+(2) 0.6% of total population (referring to German model)
+(3) Minimum monthly wage
+
+Sources
+OES_Criteria_V6_0_EN Indicative And Non-Binding Impact Matrix For Identification Of Providers Of Essential Services
+ENISA - On-line tool for the security of personal data processing
+NIST Special Publication 800-30 Guide for Conducting Risk Assessments September 2012
+ISO/IEC 27005:2022 Information security, cybersecurity and privacy protection - Guidance on managing information security risks
+
+Version: 2023-07-10
+
+Page 3 of 3
+
+
+
+
+
+
+
+
+
