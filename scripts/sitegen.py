@@ -76,6 +76,24 @@ def render_templates(env: Environment, template_name: str, context: Dict[str, An
 		f.write(tpl.render(**context))
 
 
+def replicate_to_root():
+	# Make root-level copies to support servers that serve repo root
+	# Files
+	for fname in ('index.html', 'index.json', 'robots.txt', 'sitemap.xml'):
+		src = os.path.join(SITE_DIR, fname)
+		dst = os.path.join(REPO_ROOT, fname)
+		if os.path.exists(src):
+			shutil.copy2(src, dst)
+	# Directories
+	for dname in ('static', 'docs', 'files'):
+		src_dir = os.path.join(SITE_DIR, dname)
+		dst_dir = os.path.join(REPO_ROOT, dname)
+		if os.path.exists(src_dir):
+			if os.path.exists(dst_dir):
+				shutil.rmtree(dst_dir)
+			shutil.copytree(src_dir, dst_dir)
+
+
 def main():
 	os.makedirs(SITE_DIR, exist_ok=True)
 	os.makedirs(FILES_DIR, exist_ok=True)
@@ -121,7 +139,7 @@ def main():
 	for doc in documents:
 		render_templates(env, 'doc.html', {
 			'title': doc['title'],
-			'base_path': './',
+			'base_path': '../',
 			'build_time': build_time,
 			'doc': doc,
 		}, os.path.join(DOCS_DIR, f"{doc['slug']}.html"))
@@ -166,7 +184,8 @@ def main():
 		f.write('\n'.join(xml))
 
 	copy_static()
-	print(f"Generated site at {SITE_DIR} with {len(documents)} documents.")
+	replicate_to_root()
+	print(f"Generated site at {SITE_DIR} with {len(documents)} documents and replicated to repo root.")
 
 if __name__ == '__main__':
 	main()

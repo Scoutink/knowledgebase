@@ -1,7 +1,13 @@
 (function(){
+	function getBasePath(){
+		const link = document.querySelector('link[rel="stylesheet"]');
+		if(!link) return './';
+		return link.href.replace(/static\/styles\.css.*/, '');
+	}
 	async function fetchIndex(){
 		if(window.__kbIndex) return window.__kbIndex;
-		const res = await fetch('index.json',{cache:'no-store'});
+		const basePath = getBasePath();
+		const res = await fetch(basePath + 'index.json',{cache:'no-store'});
 		if(!res.ok) return [];
 		const data = await res.json();
 		window.__kbIndex = data;
@@ -13,7 +19,7 @@
 		const input = document.getElementById('search-input');
 		if(!input) return;
 		const list = document.querySelector('.doc-list');
-		const basePath = document.querySelector('link[rel="stylesheet"]').href.replace(/static\/styles\.css.*/, '');
+		const basePath = getBasePath();
 		const index = await fetchIndex();
 		const bySlug = new Map(index.documents.map(d=>[d.slug,d]));
 		function render(docs){
