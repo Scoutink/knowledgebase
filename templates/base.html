@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>{{ title }}</title>
+	<link rel="stylesheet" href="{{ base_path }}static/styles.css" />
+	<script defer src="{{ base_path }}static/search.js"></script>
+</head>
+<body>
+	<header class="site-header">
+		<a class="brand" href="{{ base_path }}index.html">AI Knowledge Base</a>
+		<nav>
+			<a href="{{ base_path }}index.html">Home</a>
+			<a href="{{ base_path }}sitemap.xml">Sitemap</a>
+		</nav>
+	</header>
+	<main>
+		{% block content %}{% endblock %}
+	</main>
+	<footer class="site-footer">Generated for AI ingestion • {{ build_time }}</footer>
+</body>
+</html>

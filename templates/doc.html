@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="doc">
+	<h1>{{ doc.title }}</h1>
+	<p class="meta">Pages: {{ doc.pages }} • Size: {{ doc.size_human }}</p>
+	<p>
+		<a class="btn" href="{{ base_path }}files/{{ doc.filename_url }}" download>Download original PDF</a>
+	</p>
+	<div class="viewer">
+		<iframe src="{{ base_path }}files/{{ doc.filename_url }}" title="{{ doc.title }}" loading="lazy"></iframe>
+	</div>
+	<h2>Extracted Text (for AI search)</h2>
+	<ol class="pages">
+		{% for page in doc.text_pages %}
+		<li id="page-{{ loop.index }}">
+			<h3>Page {{ loop.index }}</h3>
+			<pre>{{ page }}</pre>
+		</li>
+		{% endfor %}
+	</ol>
+</article>
+{% endblock %}

@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+	<h1>Repository Knowledge Base</h1>
+	<p>All documents indexed for AI chatbots. Search below or browse the list.</p>
+	<input id="search-input" type="search" placeholder="Search documents and content..." />
+</section>
+<section>
+	<ul class="doc-list">
+		{% for doc in documents %}
+		<li>
+			<a href="{{ base_path }}docs/{{ doc.slug }}.html">{{ doc.title }}</a>
+			<span class="meta">{{ doc.pages }} pages • {{ doc.size_human }}</span>
+		</li>
+		{% endfor %}
+	</ul>
+</section>
+{% endblock %}
